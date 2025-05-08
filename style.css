@@ -452,6 +452,11 @@ text-align: center;
 
 
 
+
+
+
+/* Project Section Css */
+
 .projects-container {
     display: flex;
     flex-wrap: wrap;
